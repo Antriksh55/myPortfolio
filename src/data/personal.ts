@@ -4,11 +4,11 @@ export const personalInfo: PersonalInfo = {
   name: "Saurabh Kumar",
   title: "Full Stack Developer",
   tagline: "Building exceptional digital experiences with modern web technologies",
-  bio: "I'm a 3rd-year B.Tech CSE student with a strong passion for building real-world, production-grade software. I specialize in full-stack web development and backend engineering — from crafting responsive UIs with React and Tailwind CSS to designing scalable APIs with Node.js, Express, and MongoDB. I've already shipped freelance projects, built automation testing platforms, and developed search engines with Elasticsearch and Redis — all while still in college. I write clean, maintainable code, take ownership end-to-end, and thrive on solving complex problems with elegant solutions. I'm actively looking for internship or full-time opportunities where I can contribute from day one.",
+  bio: "I design and develop full-stack applications that are fast, scalable, and production-ready. From intuitive UIs in React to backend systems powered by Node.js and MongoDB, I bring ideas to life with clean code and solid engineering principles. I've delivered 5+ real-world projects, including freelance solutions, automation platforms, and high-performance search systems using Elasticsearch and Redis. Built systems capable of handling 10K+ queries efficiently with optimized performance and low latency. I focus on solving real-world problems with reliable and scalable solutions, take full ownership of the development lifecycle — from concept to deployment, and prioritize performance, maintainability, and clean architecture in everything I build. I don't just write code — I engineer systems that create real impact.",
   email: "sauravsingh7370@gmail.com",
   location: "India",
   profileImage: "/profile.jpg",
-  resumeUrl: "/resume.pdf",
+  resumeUrl: "/resume (2).pdf",
   socials: [
     {
       platform: "GitHub",

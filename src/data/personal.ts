@@ -12,7 +12,7 @@ export const personalInfo: PersonalInfo = {
   socials: [
     {
       platform: "GitHub",
-      url: "https://github.com/Antriksh55",
+      url: "https://github.com/Saurab-hh",
       icon: "github",
     },
     {

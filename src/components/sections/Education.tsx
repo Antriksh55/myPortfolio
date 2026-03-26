@@ -11,19 +11,19 @@ const education = [
     degree: "B.Tech — Computer Science & Engineering",
     institution: "Lovely Professional University (LPU)",
     period: "2023 – 2027",
-    score: "CGPA: 7.70",
+    score: "CGPA: 7.6",
   },
   {
-    degree: "12th — Science (PCM)",
-    institution: "DAV Public School, Muzaffarpur",
+    degree: "Intermediate (12th)",
+    institution: "Pragya Niketan Public School",
     period: "2022",
-    score: "80%",
+    score: "66%",
   },
   {
-    degree: "10th",
-    institution: "DAV Public School, Muzaffarpur",
+    degree: "Matriculation (10th)",
+    institution: "ABR Foundation School",
     period: "2020",
-    score: "92%",
+    score: "80%",
   },
 ];
 

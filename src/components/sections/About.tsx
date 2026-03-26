@@ -23,8 +23,8 @@ export function About() {
             <div className="absolute -inset-1 rounded-2xl bg-gradient-to-br from-red-500/20 to-orange-500/20 blur-xl opacity-50 z-0" />
             <div className="relative z-10 w-full h-full">
               <Image
-                src="/profile/photosrb.jpeg"
-                alt="Saurabh Kumar"
+                src="/profile/main-photo.png"
+                alt="Antriksh Kumar Singh"
                 fill
                 className="object-cover rounded-2xl"
                 sizes="(max-width: 768px) 100vw, 50vw"
